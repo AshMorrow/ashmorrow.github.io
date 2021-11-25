@@ -33,7 +33,7 @@ Performance optimization
 **_Junior PHP Developer_** at **[BeeJee](https://beejee.ru/)** - **Nov. 2017 - Sep. 2019**
 
 `Outsource company`
-####
+
 _**Duties:**_
 ```
  - Bugfix
