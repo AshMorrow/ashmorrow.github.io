@@ -20,8 +20,8 @@
 _**Duties:**_
 ```
 - Refactoring, 
-- implementation of new functionality
-- code review.
+- Implementation of new functionality
+- Code review.
 ```
 _**Achivment:**_
 ```
@@ -38,7 +38,7 @@ Performance optimization
 _**Duties:**_
 ```
  - Bugfix
- - implementation of new functionalit
+ - Implementation of new functionalit
 ```
 _**Achivment:**_
 ```
