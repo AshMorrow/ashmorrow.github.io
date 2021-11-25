@@ -16,6 +16,7 @@
 
 `ECommerce platform for fastest deploy e-shops`
 ####
+
 _**Duties:**_
 ```
 - Refactoring, 

@@ -2,10 +2,12 @@ title: Yaremchuk Bohdan
 logo: "/images/photo.jpg?raw=true" 
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Contact:
-  Kyiv, <a href="mailto:bogdan.yaremchuk.92@gmail.com">email</a>
-  <a href="tel:+380952144880">(095) 21-44-880</ a>
-  <br>
+  <ul>
+    <li>Location: Kyiv</li>
+    <li>Email: <a href="mailto:bogdan.yaremchuk.92@gmail.com">email</a></li>
+    <li>Phone: <a href="tel:+380952144880">(095) 21-44-880</a></li>
+  </ul>
+
   <br><br>
-  <a href="https://www.linkedin.com/in/bogdan-yaremchuk-568775119">View My LinkedIn Profile</a> 
-  
+  <a href="https://www.linkedin.com/in/bogdan-yaremchuk-568775119">View My LinkedIn Profile</a>
 theme: jekyll-theme-minimal
