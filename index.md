@@ -4,6 +4,7 @@
 - JS, JQuery, Familiar with VUE
 - MySql
 - Redis
+- HTML,CSS, Familiar with SASS/LESS
 - Docker
 - Linux
 - SOLID, GRASP, GOF
