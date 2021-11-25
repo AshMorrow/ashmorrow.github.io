@@ -1,10 +1,14 @@
-title: Yaremchuk Bohdan
+title: Bohdan Y.
 logo: "/images/photo.jpg?raw=true" 
 description: >
  <span>Location: Kyiv</span><br>
  <span>Email: <a href="mailto:bogdan.yaremchuk.92@gmail.com">bogdan.yaremchuk.92@gmail.com</a></span>
  <span>Phone: <a href="tel:+380952144880">(095) 21-44-880</a></span>
-
-  <br><br>
-  <a href="https://www.linkedin.com/in/bogdan-yaremchuk-568775119">View My LinkedIn Profile</a>
+ <br>
+ <p>
+  Inspired by web development.
+  Love motorcycling, travel and skydiving.
+ </p>
+ <br>
+ <a href="https://www.linkedin.com/in/bogdan-yaremchuk-568775119">View My LinkedIn Profile</a>
 theme: jekyll-theme-minimal

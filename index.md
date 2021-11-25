@@ -42,6 +42,6 @@ _**Duties:**_
 ```
 _**Achivment:**_
 ```
-Redesign of admin panel, which has written in JQuery 1.2
+Redesign of admin panel, which has written on JQuery 1.2
 ```
 
