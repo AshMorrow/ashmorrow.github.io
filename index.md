@@ -15,7 +15,7 @@
 -- -
 **_PHP Developer_** at **[HOROSHOP](https://horoshop.ua/)** - **Oct. 2019 - Now**
 
-`ECommerce platform for fastest deploy e-shops`
+`SaaS platform for fastest deploy e-shops`
 
 _**Duties:**_
 ```
